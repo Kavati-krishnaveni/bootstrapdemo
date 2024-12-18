@@ -1,0 +1,28 @@
+ flex container properties
+.display
+.flex-direction
+.flex-wrap
+.flex-flow
+.justify-content
+.align-content
+.gap
+flex item properties
+.order
+.flex-grow
+.flex-shrink
+.flex-base
+.align-self
+
+Grid container properties             
+.display
+.grid-template-column
+.grid-template-row
+.grid-template-area
+.grid-gap
+.justify-items
+.align-items
+.justify-content
+.align-content
+
+
+

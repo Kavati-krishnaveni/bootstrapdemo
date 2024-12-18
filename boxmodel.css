@@ -1,0 +1,21 @@
+.container{
+    border: 200px solid green;
+    margin-right: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    /* line-height: 70px;
+    word-spacing: 50px;
+  */
+    background-image: url("/music/image/logo.jpeg");
+    width: 500px;
+    height: 100px;
+    float:left;
+}
+h2{
+    background-color: rgb(111, 111, 229);
+    padding: 40px;
+}
+P{
+    text-indent: 100px;
+    line-height: 30px;
+}
